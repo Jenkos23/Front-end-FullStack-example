@@ -27,7 +27,7 @@ The backend for this application is hosted on Render. You can find the backend c
 2. individual user by Id: Url/users/_id
 
 ## Frontend
-The frontend for this application is hosted on Render. You can find the frontend code repository on GitHub here: https://github.com/Jenkos23/FullStackMern-App-Project.git
+The frontend for this application is hosted on Render. You can find the frontend code repository on GitHub here: [https://github.com/Jenkos23/FullStackMern-App-Project.git](https://github.com/Jenkos23/Front-end-FullStack-example.git)
 **Deployed** : Url: https://front-end-mern-example.onrender.com/
  
 
