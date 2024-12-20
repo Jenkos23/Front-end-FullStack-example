@@ -21,7 +21,12 @@ Welcome to the MFlix User Management Application! This is a full-stack applicati
 Contributors are encouraged to help work on these areas for improvement!
 
 ## Backend
-The backend for this application is hosted on Render. You can find the backend code repository on GitHub here: .
+The backend for this application is hosted on Render. You can find the backend code repository on GitHub here: https://github.com/Jenkos23/FullStackMern-App-Project.git
+# Deployed : Url: https://fullstackmern-app-project.onrender.com
+# endpoints: 
+1. Users: Url/users
+2. individual user by Id: Url/users/_id
+ 
 
 ## Application Structure
 
